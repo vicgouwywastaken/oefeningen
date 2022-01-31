@@ -1,0 +1,7 @@
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\method\bin\Debug\method.exe.config
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\method\bin\Debug\method.exe
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\method\bin\Debug\method.pdb
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\method\obj\Debug\method.csproj.AssemblyReference.cache
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\method\obj\Debug\method.csproj.CoreCompileInputs.cache
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\method\obj\Debug\method.exe
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\method\obj\Debug\method.pdb

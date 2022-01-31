@@ -8,14 +8,20 @@ namespace method
 {
     class Program
     {
-       static void verschil()
+       static void verschil(ref int a)
         {
-            int   getal , get ; get = int.Parse(Console.ReadLine()); getal = int.Parse(Console.ReadLine());
-            Console.WriteLine("het verschil is {0}", getal - get);
+            int   getal  ; 
+            a = int.Parse(Console.ReadLine());
+            getal = int.Parse(Console.ReadLine());
+         a = a - getal ;
         }
         static void Main(string[] args)
         {
-            verschil();
+           int get ;
+            get = 0 ;
+          verschil(ref get );
+            Console.WriteLine("het verschil is {0}", get);
+           
         }
     }
 }
