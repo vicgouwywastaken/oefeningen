@@ -8,19 +8,20 @@ namespace method
 {
     class Program
     {
-       static void verschil(ref int a)
+       static void kwad(ref int a)
         {
-            int   getal  ; 
-            a = int.Parse(Console.ReadLine());
-            getal = int.Parse(Console.ReadLine());
-         a = a - getal ;
+          
+          Math.Sqrt(a); 
+           if (Math.Sqrt(a) *Math.Sqrt(a) ==a);
+            {
+              Console.WriteLine("de opsoming van de uitkomst van het kwadraat is ");
+            }
         }
         static void Main(string[] args)
         {
-           int get ;
-            get = 0 ;
-          verschil(ref get );
-            Console.WriteLine("het verschil is {0}", get);
+                int get ; 
+            Console.WriteLine("geef je getal in "); get = int.Parse(Console.ReadLine());
+            kwad(ref get);
            
         }
     }
