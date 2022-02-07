@@ -10,12 +10,14 @@ namespace method
     {
        static void kwad(ref int a)
         {
-          
-          Math.Sqrt(a); 
-           if (Math.Sqrt(a) *Math.Sqrt(a) ==a);
+          int b ;
+         b = (int)Math.Sqrt(a); 
+           if (b *b  <=a)
             {
-              Console.WriteLine("de opsoming van de uitkomst van het kwadraat is ");
+              Console.WriteLine("de uitkomst van het kwadraat is {0}", b );
+                Console.WriteLine("de uitkomst van het kwadraat is {0} en de vermeningvuldiging is {1}en het orgineel getal is {2}", b , b *b , a );
             }
+           
         }
         static void Main(string[] args)
         {
