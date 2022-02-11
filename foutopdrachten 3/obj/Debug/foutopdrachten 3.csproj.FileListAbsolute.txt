@@ -1,0 +1,7 @@
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\foutopdrachten 3\bin\Debug\foutopdrachten 3.exe.config
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\foutopdrachten 3\bin\Debug\foutopdrachten 3.exe
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\foutopdrachten 3\bin\Debug\foutopdrachten 3.pdb
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\foutopdrachten 3\obj\Debug\foutopdrachten 3.csproj.AssemblyReference.cache
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\foutopdrachten 3\obj\Debug\foutopdrachten 3.csproj.CoreCompileInputs.cache
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\foutopdrachten 3\obj\Debug\foutopdrachten 3.exe
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\foutopdrachten 3\obj\Debug\foutopdrachten 3.pdb

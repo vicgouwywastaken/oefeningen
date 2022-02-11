@@ -10,16 +10,25 @@ namespace foutopdrachten1
     {
         static void Main(string[] args)
         {
-            
-                int[] reeks  =new int[2];
-                int get;
-            for ( int i = 0; i <= 2; i++)
+            try
+            { 
+                int[] reeks  = new int[3];
+              
+            for ( int i = 0; i < 4 ; i++)
             {
-                    reeks[i] = i;
-
+              reeks[i] = i ;
+              
             }
-           
-
+            }
+            catch (IndexOutOfRangeException)
+            { 
+                Console.WriteLine("out of range");
+             }
+            catch (Exception e )
+            {
+                Console.WriteLine(e.Message);
+            }
+         
         }
     }
 }
