@@ -46,7 +46,9 @@ namespace foutopdrachten_3
                     Console.WriteLine(e.Message);
                         throw new Exception(e.Message);
                 }
-
+            
+            Console.WriteLine("stopwatch druk op enter om te beginnen");
+            Console.ReadLine();
         }
         }
     }
