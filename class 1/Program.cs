@@ -10,14 +10,25 @@ namespace class_1
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine("stopwatch druk op enter om te beginnen");
-            Console.ReadLine();
-            DateTime sdb = DateTime.Today ;
-            Console.WriteLine("stopwatch druk op enter om te stoppen");
-            Console.ReadLine();
-            TimeSpan voorbij = new TimeSpan(sdb.Ticks - DateTime.Today.Ticks);
-            Console.WriteLine("seconden gepaseerd is {0}", voorbij);
+           int getal ;
+           char teken ;
+           teken = '+' ; 
+           som.teken();
         }
+    }
+    static class som
+    {
+        static int optelling()
+        {
+            int totaal ;
+            totaal = 0 
+             char teken ;
+           teken = '+' ; 
+            teken = char.Parse(Console.ReadLine());
+            Console.Write("{0}", teken);
+        }
+
+
+
     }
 }
