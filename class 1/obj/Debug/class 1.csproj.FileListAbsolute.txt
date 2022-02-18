@@ -4,3 +4,4 @@ C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\class 1\bin\De
 C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\class 1\obj\Debug\class 1.csproj.CoreCompileInputs.cache
 C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\class 1\obj\Debug\class 1.exe
 C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\class 1\obj\Debug\class 1.pdb
+C:\Users\V115Gebruiker11\Source\Repos\vicgouwywastaken\oefeningen\class 1\obj\Debug\class 1.csproj.AssemblyReference.cache
